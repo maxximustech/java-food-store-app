@@ -34,4 +34,5 @@ This is a Java-based Food Store Application that includes both a console interfa
 
 ### Usage
 - Run the Main.Java file application
+- For web app authentication, create a new user account from the console interface
 - For Unit testing, run the MainTest.java class in the test package to run all tests
