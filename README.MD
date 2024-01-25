@@ -1,4 +1,4 @@
-# Food Store Console and Web Application
+# Food Store Console and Web Application - Advanced Object Oriented Programming (MMU MSC Assignment)
 
 ## Overview
 
